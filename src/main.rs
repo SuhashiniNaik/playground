@@ -6,6 +6,7 @@ fn main() {
     println!("Lorem Ipsum.....");
     println!("Test commit 1");
     println!("Test commit 2");
+    println!("Test commit 3");
     println!("Rim info file should start with {}", dictionary::RIM_INFO);
     println!("Rim info file should start with {}", dictionary::RIM_INFO);
     println!("Rim info file should start with {}", dictionary::RIM_INFO);
